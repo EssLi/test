@@ -3,6 +3,8 @@
 
 //this function add two integrty
 
+//simple reality
+
 int add(int a, int b);
 
 
