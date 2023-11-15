@@ -2,8 +2,7 @@
 
 #include <iostream>
 
-//this is my feature branch
-//this is my feature branch2
+//this is my dev branch
 
 int main(int argc, char* argv[]) {
 	
